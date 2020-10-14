@@ -1,4 +1,4 @@
-# Hacktober-tshirt
+# Hacktober-tshirt  ----An awesome fest
 
 *The following steps will clarify how to a get a hactoberfest t-shirt:
 
